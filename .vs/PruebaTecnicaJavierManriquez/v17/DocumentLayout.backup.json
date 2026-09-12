@@ -44,7 +44,7 @@
               "RelativeDocumentMoniker": "PruebaTecnicaJavierManriquez\\wwwroot\\js\\producto.js",
               "ToolTip": "C:\\Users\\Javier\\Documents\\NetCore\\PruebaTecnicaJavierManriquez\\PruebaTecnicaJavierManriquez\\wwwroot\\js\\producto.js",
               "RelativeToolTip": "PruebaTecnicaJavierManriquez\\wwwroot\\js\\producto.js",
-              "ViewState": "AgIAADoAAAAAAAAAAAAQwBsAAAAUAAAAAAAAAA==",
+              "ViewState": "AgIAADoAAAAAAAAAAAAQwEgAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
               "WhenOpened": "2026-09-12T03:51:46.715Z",
               "EditorCaption": ""
@@ -59,8 +59,7 @@
               "RelativeToolTip": "PruebaTecnicaJavierManriquez\\Views\\Productos\\Index.cshtml",
               "ViewState": "AgIAAGMAAAAAAAAAAAAAAG0AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-12T03:50:05.69Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-12T03:50:05.69Z"
             },
             {
               "$type": "Document",
@@ -72,8 +71,7 @@
               "RelativeToolTip": "PruebaTecnicaJavierManriquez\\Controllers\\ProductosApiController.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAYwB0AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-12T02:45:36.147Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-09-12T02:45:36.147Z"
             }
           ]
         }
