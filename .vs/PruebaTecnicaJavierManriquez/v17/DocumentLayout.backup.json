@@ -1,0 +1,230 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Javier\\Documents\\NetCore\\PruebaTecnicaJavierManriquez\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB47AF0-7C26-4C91-8A33-D0B1262D697D}|PruebaTecnicaJavierManriquez\\PruebaTecnicaJavierManriquez.csproj|c:\\users\\javier\\documents\\netcore\\pruebatecnicajaviermanriquez\\pruebatecnicajaviermanriquez\\wwwroot\\js\\producto.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{5FB47AF0-7C26-4C91-8A33-D0B1262D697D}|PruebaTecnicaJavierManriquez\\PruebaTecnicaJavierManriquez.csproj|solutionrelative:pruebatecnicajaviermanriquez\\wwwroot\\js\\producto.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB47AF0-7C26-4C91-8A33-D0B1262D697D}|PruebaTecnicaJavierManriquez\\PruebaTecnicaJavierManriquez.csproj|c:\\users\\javier\\documents\\netcore\\pruebatecnicajaviermanriquez\\pruebatecnicajaviermanriquez\\models\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB47AF0-7C26-4C91-8A33-D0B1262D697D}|PruebaTecnicaJavierManriquez\\PruebaTecnicaJavierManriquez.csproj|solutionrelative:pruebatecnicajaviermanriquez\\models\\productodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB47AF0-7C26-4C91-8A33-D0B1262D697D}|PruebaTecnicaJavierManriquez\\PruebaTecnicaJavierManriquez.csproj|c:\\users\\javier\\documents\\netcore\\pruebatecnicajaviermanriquez\\pruebatecnicajaviermanriquez\\controllers\\productosapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB47AF0-7C26-4C91-8A33-D0B1262D697D}|PruebaTecnicaJavierManriquez\\PruebaTecnicaJavierManriquez.csproj|solutionrelative:pruebatecnicajaviermanriquez\\controllers\\productosapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB47AF0-7C26-4C91-8A33-D0B1262D697D}|PruebaTecnicaJavierManriquez\\PruebaTecnicaJavierManriquez.csproj|c:\\users\\javier\\documents\\netcore\\pruebatecnicajaviermanriquez\\pruebatecnicajaviermanriquez\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FB47AF0-7C26-4C91-8A33-D0B1262D697D}|PruebaTecnicaJavierManriquez\\PruebaTecnicaJavierManriquez.csproj|solutionrelative:pruebatecnicajaviermanriquez\\views\\productos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB47AF0-7C26-4C91-8A33-D0B1262D697D}|PruebaTecnicaJavierManriquez\\PruebaTecnicaJavierManriquez.csproj|c:\\users\\javier\\documents\\netcore\\pruebatecnicajaviermanriquez\\pruebatecnicajaviermanriquez\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FB47AF0-7C26-4C91-8A33-D0B1262D697D}|PruebaTecnicaJavierManriquez\\PruebaTecnicaJavierManriquez.csproj|solutionrelative:pruebatecnicajaviermanriquez\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB47AF0-7C26-4C91-8A33-D0B1262D697D}|PruebaTecnicaJavierManriquez\\PruebaTecnicaJavierManriquez.csproj|c:\\users\\javier\\documents\\netcore\\pruebatecnicajaviermanriquez\\pruebatecnicajaviermanriquez\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5FB47AF0-7C26-4C91-8A33-D0B1262D697D}|PruebaTecnicaJavierManriquez\\PruebaTecnicaJavierManriquez.csproj|solutionrelative:pruebatecnicajaviermanriquez\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB47AF0-7C26-4C91-8A33-D0B1262D697D}|PruebaTecnicaJavierManriquez\\PruebaTecnicaJavierManriquez.csproj|c:\\users\\javier\\documents\\netcore\\pruebatecnicajaviermanriquez\\pruebatecnicajaviermanriquez\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB47AF0-7C26-4C91-8A33-D0B1262D697D}|PruebaTecnicaJavierManriquez\\PruebaTecnicaJavierManriquez.csproj|solutionrelative:pruebatecnicajaviermanriquez\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB47AF0-7C26-4C91-8A33-D0B1262D697D}|PruebaTecnicaJavierManriquez\\PruebaTecnicaJavierManriquez.csproj|c:\\users\\javier\\documents\\netcore\\pruebatecnicajaviermanriquez\\pruebatecnicajaviermanriquez\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB47AF0-7C26-4C91-8A33-D0B1262D697D}|PruebaTecnicaJavierManriquez\\PruebaTecnicaJavierManriquez.csproj|solutionrelative:pruebatecnicajaviermanriquez\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB47AF0-7C26-4C91-8A33-D0B1262D697D}|PruebaTecnicaJavierManriquez\\PruebaTecnicaJavierManriquez.csproj|c:\\users\\javier\\documents\\netcore\\pruebatecnicajaviermanriquez\\pruebatecnicajaviermanriquez\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FB47AF0-7C26-4C91-8A33-D0B1262D697D}|PruebaTecnicaJavierManriquez\\PruebaTecnicaJavierManriquez.csproj|solutionrelative:pruebatecnicajaviermanriquez\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB47AF0-7C26-4C91-8A33-D0B1262D697D}|PruebaTecnicaJavierManriquez\\PruebaTecnicaJavierManriquez.csproj|c:\\users\\javier\\documents\\netcore\\pruebatecnicajaviermanriquez\\pruebatecnicajaviermanriquez\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5FB47AF0-7C26-4C91-8A33-D0B1262D697D}|PruebaTecnicaJavierManriquez\\PruebaTecnicaJavierManriquez.csproj|solutionrelative:pruebatecnicajaviermanriquez\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Javier\\Documents\\NetCore\\PruebaTecnicaJavierManriquez\\QUERYS.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:QUERYS.sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FB47AF0-7C26-4C91-8A33-D0B1262D697D}|PruebaTecnicaJavierManriquez\\PruebaTecnicaJavierManriquez.csproj|c:\\users\\javier\\documents\\netcore\\pruebatecnicajaviermanriquez\\pruebatecnicajaviermanriquez\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FB47AF0-7C26-4C91-8A33-D0B1262D697D}|PruebaTecnicaJavierManriquez\\PruebaTecnicaJavierManriquez.csproj|solutionrelative:pruebatecnicajaviermanriquez\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductoDto.cs",
+              "DocumentMoniker": "C:\\Users\\Javier\\Documents\\NetCore\\PruebaTecnicaJavierManriquez\\PruebaTecnicaJavierManriquez\\Models\\ProductoDto.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaJavierManriquez\\Models\\ProductoDto.cs",
+              "ToolTip": "C:\\Users\\Javier\\Documents\\NetCore\\PruebaTecnicaJavierManriquez\\PruebaTecnicaJavierManriquez\\Models\\ProductoDto.cs",
+              "RelativeToolTip": "PruebaTecnicaJavierManriquez\\Models\\ProductoDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T04:00:22.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductosApiController.cs",
+              "DocumentMoniker": "C:\\Users\\Javier\\Documents\\NetCore\\PruebaTecnicaJavierManriquez\\PruebaTecnicaJavierManriquez\\Controllers\\ProductosApiController.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaJavierManriquez\\Controllers\\ProductosApiController.cs",
+              "ToolTip": "C:\\Users\\Javier\\Documents\\NetCore\\PruebaTecnicaJavierManriquez\\PruebaTecnicaJavierManriquez\\Controllers\\ProductosApiController.cs",
+              "RelativeToolTip": "PruebaTecnicaJavierManriquez\\Controllers\\ProductosApiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T03:50:42.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Javier\\Documents\\NetCore\\PruebaTecnicaJavierManriquez\\PruebaTecnicaJavierManriquez\\Views\\Productos\\Index.cshtml",
+              "RelativeDocumentMoniker": "PruebaTecnicaJavierManriquez\\Views\\Productos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Javier\\Documents\\NetCore\\PruebaTecnicaJavierManriquez\\PruebaTecnicaJavierManriquez\\Views\\Productos\\Index.cshtml",
+              "RelativeToolTip": "PruebaTecnicaJavierManriquez\\Views\\Productos\\Index.cshtml",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAgwH8AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-11T05:33:19.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "producto.js",
+              "DocumentMoniker": "C:\\Users\\Javier\\Documents\\NetCore\\PruebaTecnicaJavierManriquez\\PruebaTecnicaJavierManriquez\\wwwroot\\js\\producto.js",
+              "RelativeDocumentMoniker": "PruebaTecnicaJavierManriquez\\wwwroot\\js\\producto.js",
+              "ToolTip": "C:\\Users\\Javier\\Documents\\NetCore\\PruebaTecnicaJavierManriquez\\PruebaTecnicaJavierManriquez\\wwwroot\\js\\producto.js",
+              "RelativeToolTip": "PruebaTecnicaJavierManriquez\\wwwroot\\js\\producto.js",
+              "ViewState": "AgIAAOEAAAAAAAAAAAAiwAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-09-11T04:35:07.3Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Javier\\Documents\\NetCore\\PruebaTecnicaJavierManriquez\\PruebaTecnicaJavierManriquez\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "PruebaTecnicaJavierManriquez\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Javier\\Documents\\NetCore\\PruebaTecnicaJavierManriquez\\PruebaTecnicaJavierManriquez\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "PruebaTecnicaJavierManriquez\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-12T02:32:00.067Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Javier\\Documents\\NetCore\\PruebaTecnicaJavierManriquez\\PruebaTecnicaJavierManriquez\\appsettings.json",
+              "RelativeDocumentMoniker": "PruebaTecnicaJavierManriquez\\appsettings.json",
+              "ToolTip": "C:\\Users\\Javier\\Documents\\NetCore\\PruebaTecnicaJavierManriquez\\PruebaTecnicaJavierManriquez\\appsettings.json",
+              "RelativeToolTip": "PruebaTecnicaJavierManriquez\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-11T04:17:01.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\Javier\\Documents\\NetCore\\PruebaTecnicaJavierManriquez\\PruebaTecnicaJavierManriquez\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaJavierManriquez\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\Javier\\Documents\\NetCore\\PruebaTecnicaJavierManriquez\\PruebaTecnicaJavierManriquez\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "PruebaTecnicaJavierManriquez\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T05:46:19.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\Javier\\Documents\\NetCore\\PruebaTecnicaJavierManriquez\\PruebaTecnicaJavierManriquez\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "PruebaTecnicaJavierManriquez\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\Javier\\Documents\\NetCore\\PruebaTecnicaJavierManriquez\\PruebaTecnicaJavierManriquez\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "PruebaTecnicaJavierManriquez\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-11T06:03:54.099Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Javier\\Documents\\NetCore\\PruebaTecnicaJavierManriquez\\PruebaTecnicaJavierManriquez\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "PruebaTecnicaJavierManriquez\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Javier\\Documents\\NetCore\\PruebaTecnicaJavierManriquez\\PruebaTecnicaJavierManriquez\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "PruebaTecnicaJavierManriquez\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-11T06:03:55.451Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Javier\\Documents\\NetCore\\PruebaTecnicaJavierManriquez\\PruebaTecnicaJavierManriquez\\Program.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaJavierManriquez\\Program.cs",
+              "ToolTip": "C:\\Users\\Javier\\Documents\\NetCore\\PruebaTecnicaJavierManriquez\\PruebaTecnicaJavierManriquez\\Program.cs",
+              "RelativeToolTip": "PruebaTecnicaJavierManriquez\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T05:45:42.752Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Javier\\Documents\\NetCore\\PruebaTecnicaJavierManriquez\\PruebaTecnicaJavierManriquez\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "PruebaTecnicaJavierManriquez\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\Javier\\Documents\\NetCore\\PruebaTecnicaJavierManriquez\\PruebaTecnicaJavierManriquez\\Models\\Producto.cs",
+              "RelativeToolTip": "PruebaTecnicaJavierManriquez\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-11T03:54:24.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "QUERYS.sql",
+              "DocumentMoniker": "C:\\Users\\Javier\\Documents\\NetCore\\PruebaTecnicaJavierManriquez\\QUERYS.sql",
+              "RelativeDocumentMoniker": "QUERYS.sql",
+              "ToolTip": "C:\\Users\\Javier\\Documents\\NetCore\\PruebaTecnicaJavierManriquez\\QUERYS.sql",
+              "RelativeToolTip": "QUERYS.sql",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-09-11T03:29:25.341Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
