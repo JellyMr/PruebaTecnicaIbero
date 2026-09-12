@@ -3,7 +3,6 @@
     cargarProductos();
 
     $("#formProducto").on("submit", function (e) {
-
         e.preventDefault();
 
         if (!validarFormulario()) {
@@ -24,11 +23,9 @@ function cargarProductos() {
         success: function (response) {
 
             if (response.success) {
-
                 mostrarProductos(response.data);
 
             } else {
-
                 mostrarError(response.message);
             }
         },
@@ -65,16 +62,10 @@ function mostrarProductos(productos) {
 
             html += `
                 <tr>
-                    <td>${producto.idProducto}</td>
-
                     <td>${producto.nombre}</td>
-
                     <td>${producto.descripcion ?? ""}</td>
-
                     <td>$${Number(producto.precio).toFixed(2)}</td>
-
                     <td>${producto.existencia}</td>
-
                     <td>
                         <button type="button"
                                 class="btn btn-danger btn-sm"
@@ -138,27 +129,18 @@ function guardarProducto() {
     $("#btnGuardar").prop("disabled", true);
 
     $.ajax({
-
         url: "/api/Producto",
-
         type: "POST",
-
         contentType: "application/json",
-
         data: JSON.stringify(producto),
-
         success: function (response) {
 
             if (response.success) {
-
                 mostrarExito(response.message);
-
                 limpiarFormulario();
-
                 cargarProductos();
             }
             else {
-
                 mostrarError(response.message);
             }
         },
@@ -174,7 +156,6 @@ function guardarProducto() {
         },
 
         complete: function () {
-
             $("#btnGuardar").prop("disabled", false);
         }
     });
@@ -187,21 +168,16 @@ function eliminarProducto(id) {
     }
 
     $.ajax({
-
         url: "/api/Producto/" + id,
-
         type: "DELETE",
-
         success: function (response) {
 
             if (response.success) {
 
                 mostrarExito(response.message);
-
                 cargarProductos();
 
             } else {
-
                 mostrarError(response.message);
             }
         },
